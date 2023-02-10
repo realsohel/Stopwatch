@@ -1,0 +1,52 @@
+
+body{
+    background-color: whie;
+}
+.contain{
+    /* border: 2px solid rgb(241, 199, 199) ; */
+    margin: 4px;
+    margin-top: 50px;
+    /* color: #3ec573; */
+    /* color: #57BA98; */
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    font-size: 3vw;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    display: flex;
+}
+
+
+.box{
+    /* padding: 80px; */
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    width: 50%;
+    justify-content: center;
+    font-family: "Clock font";
+}
+
+.time{
+    /* color: #5CDB95; */
+    color: #3ec573;
+    margin-top: 40px;
+    display: flex;
+    font-size: 15vw;
+}
+
+.buttons{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    justify-content: center;
+    font-family: "Clock font";
+}
+
+button{
+    margin: 8px;
+}
+
